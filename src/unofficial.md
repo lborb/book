@@ -14,6 +14,7 @@ Application domains:
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 
 Other:
+* [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
