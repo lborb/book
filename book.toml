@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "The Little Book of Rust Books"
+
+[output.html]
+curly-quotes = true
+git-repository-url = "https://github.com/lborb/book"
+site-url = "https://lborb.github.io/book/"
