@@ -12,6 +12,7 @@ Application domains:
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
+* [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 
 Other:
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
