@@ -1,4 +1,4 @@
-# Little Book of Rust Books
+# The Little Book of Rust Books
 
 This book is a catalogue of some Rust books in [mdbook](https://github.com/rust-lang/mdBook) format.
 

@@ -5,4 +5,4 @@
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
-* [Little Book of Rust Books](https://lborb.github.io/book/)
+* [The Little Book of Rust Books](https://lborb.github.io/book/)
