@@ -3,6 +3,7 @@
 The following books are maintained outside [rust-lang.org](https://www.rust-lang.org/).
 
 Application domains:
+* [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
