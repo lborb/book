@@ -1,0 +1,6 @@
+[book]
+authors = ["Glyn Normington"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Book of Rust Books"
