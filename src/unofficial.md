@@ -9,7 +9,9 @@ Application domains:
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 
 Other:
+* [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+* [Rust Practise Questions](https://sn99.github.io/rust-practise-questions/) (sic)
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
