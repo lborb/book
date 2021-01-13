@@ -16,6 +16,7 @@ Core:
 Advanced:
 * [The Rust Reference](https://doc.rust-lang.org/reference/)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/) - the dark arts of unsafe Rust
+* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/) - compiler internals
 * [The Rust Unstable Book](https://doc.rust-lang.org/unstable-book/) - nightly-only features
 
 Other:
