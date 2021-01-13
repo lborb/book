@@ -17,6 +17,6 @@ Application domains:
 Other:
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
-* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
+* [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
