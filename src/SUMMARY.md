@@ -4,4 +4,4 @@
 
 - [Official Rust Books](./official.md)
 - [Unofficial Rust Books](./unofficial.md)
-- [Rust Books on Special Subjects](./special.md)
+- [Rust Application Books](./applications.md)
