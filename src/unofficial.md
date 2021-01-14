@@ -15,10 +15,15 @@ Application domains:
 * [Engineering Rust Web Applications](https://erwabook.com/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
+* [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
+* [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
+* [Real-Time Interrupt-driven Concurrency](https://rtic.rs/0.5/book/en/preface.html) (translated from the [Russian original](https://rtic.rs/0.5/book/ru/index.html))
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
+* [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:
+* [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
