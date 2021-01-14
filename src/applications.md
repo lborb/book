@@ -9,3 +9,4 @@ Applications of Rust:
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
 * [mdBook](https://rust-lang.github.io/mdBook/)
+* [Redox OS](https://doc.redox-os.org/book/)
