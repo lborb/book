@@ -10,8 +10,10 @@ Introductory:
 
 Application domains:
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
+* [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * [A thoughtful introduction to the pest parser](https://pest.rs/book/)
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+* [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
 * [Engineering Rust Web Applications](https://erwabook.com/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
