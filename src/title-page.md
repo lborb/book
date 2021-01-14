@@ -6,3 +6,6 @@ This book is a treasure-trove of Rust books in [mdbook](https://github.com/rust-
 * [Application books](./applications.md) on specific Rust applications
 
 If you know of others, why not submit a [pull request](https://github.com/lborb/book/pulls)?
+
+For a list of non-[mdbook](https://github.com/rust-lang/mdBook) format books,
+see, for example, [Rust Books](https://github.com/sger/RustBooks).
