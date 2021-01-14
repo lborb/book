@@ -6,4 +6,5 @@ Applications of Rust:
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/) - [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game development
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
+* [Juniper](https://graphql-rust.github.io/juniper/current/) - GraphQL Server for Rust
 * [mdBook](https://rust-lang.github.io/mdBook/)
