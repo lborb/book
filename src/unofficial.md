@@ -9,10 +9,12 @@ Introductory:
 
 Application domains:
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
+* [A thoughtful introduction to the pest parser](https://pest.rs/book/)
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
+* [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/) - [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game development
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 
 Other:
