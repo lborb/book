@@ -18,6 +18,7 @@ Application domains:
 
 Other:
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
+* [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
