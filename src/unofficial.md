@@ -24,6 +24,7 @@ Application domains:
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
+* [Async programming in Rust with `async-std`](https://book.async.rs/introduction.html)
 
 Other:
 * [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
