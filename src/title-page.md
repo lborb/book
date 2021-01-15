@@ -6,4 +6,4 @@ This book is a treasure-trove of Rust books in [mdbook](https://github.com/rust-
 * [Application books](./applications.md) on specific Rust applications
 * [Books in Other Formats](./other-formats.md)
 
-If you know of others, why not submit a [pull request](https://github.com/lborb/book/pulls)?
+If you know of others, why not submit a [pull request](https://github.com/lborb/book#pull-requests)?
