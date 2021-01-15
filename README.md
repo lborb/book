@@ -2,9 +2,11 @@
 
 A catalogue of Rust mdbooks.
 
-Each entry is of the form:
+## Pull Requests
+
+Please note that each entry is of the form:
 ```
-* [The Literal Title of The Book](a-link-to-the-book)
+* [The Literal Title of The Book](https://a-link-to-the/book/)
 ```
 
 ## Viewing
