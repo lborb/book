@@ -17,6 +17,7 @@ Application domains:
 * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
 * [Engineering Rust Web Applications](https://erwabook.com/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
+* [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
 * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
