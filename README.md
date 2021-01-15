@@ -2,6 +2,11 @@
 
 A catalogue of Rust mdbooks.
 
+Each entry is of the form:
+```
+* [The Literal Title of The Book](a-link-to-the-book)
+```
+
 ## Viewing
 
 See the [rendered book](https://lborb.github.io/book/).
