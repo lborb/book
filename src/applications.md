@@ -10,3 +10,4 @@ Applications of Rust:
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
 * [mdBook](https://rust-lang.github.io/mdBook/)
+* [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
