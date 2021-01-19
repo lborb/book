@@ -19,6 +19,7 @@ Application domains:
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
+* [The Embedded Rust Discovery Book](https://docs.rust-embedded.org/discovery/) - introduction to embedded systems using Rust
 * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
 * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/0.5/book/en/preface.html) (translated from the [Russian original](https://rtic.rs/0.5/book/ru/index.html))
