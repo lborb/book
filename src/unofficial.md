@@ -15,6 +15,7 @@ Application domains:
 * [A thoughtful introduction to the pest parser](https://pest.rs/book/)
 * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
+* [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
 * [Engineering Rust Web Applications](https://erwabook.com/)
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 * [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
