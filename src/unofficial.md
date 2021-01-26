@@ -8,6 +8,7 @@ Introductory:
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [Rust Practise Questions](https://sn99.github.io/rust-practise-questions/) (sic)
+* [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 
 Application domains:
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
