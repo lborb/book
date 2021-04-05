@@ -12,3 +12,4 @@ Applications of Rust:
 * [mdBook](https://rust-lang.github.io/mdBook/)
 * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
+* [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - making of command line program that lets you hide secret messages in PNG files.
