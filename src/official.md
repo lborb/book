@@ -22,6 +22,7 @@ Advanced:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [The Chalk Book](https://rust-lang.github.io/chalk/book/) - Rust's new trait system implementation
 * [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/)
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 * [Rust RFCs](https://rust-lang.github.io/rfcs/)
