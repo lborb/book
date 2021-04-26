@@ -12,6 +12,7 @@ Core:
 * [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 * [The rustdoc Book](https://doc.rust-lang.org/stable/rustdoc/)
 * [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
+* [The rustup Book](https://rust-lang.github.io/rustup/index.html)
 
 Advanced:
 * [The Rust Reference](https://doc.rust-lang.org/reference/)
