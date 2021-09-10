@@ -13,3 +13,4 @@ Applications of Rust:
 * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
 * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
+* [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/)
