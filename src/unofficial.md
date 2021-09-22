@@ -12,25 +12,29 @@ Introductory:
 
 Application domains:
 * [A thoughtful introduction to the pest parser](https://pest.rs/book/)
-* [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
-* [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
+* Async
+  * [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
+  * [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
+  * [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
-* [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
-* [Discovery](https://docs.rust-embedded.org/discovery/) - introduction to embedded systems using Rust
+* Command line
+  * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
+  * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
+* Embedded
+  * [Discovery](https://docs.rust-embedded.org/discovery/) - introduction to embedded systems using Rust
+  * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
+  * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
+  * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
 * [Engineering Rust Web Applications](https://erwabook.com/)
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
-* [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
-* [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/0.5/book/en/preface.html) (translated from the [Russian original](https://rtic.rs/0.5/book/ru/index.html))
-* [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
-* [The Embedded Rust Book](https://rust-embedded.github.io/book/)
-* [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
-* [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
-* [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
-* [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
+* Web assembly
+  * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
+  * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+  * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:
