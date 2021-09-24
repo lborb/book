@@ -23,6 +23,7 @@ Advanced:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [Polonius](https://rust-lang.github.io/polonius/)
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 * [Rust RFCs](https://rust-lang.github.io/rfcs/)
 * [The Chalk Book](https://rust-lang.github.io/chalk/book/) - Rust's new trait system implementation
