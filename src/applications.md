@@ -13,6 +13,7 @@ Applications of Rust:
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
 * [mdBook](https://rust-lang.github.io/mdBook/)
+* [nalgebra](https://nalgebra.org/docs/)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
 * [The Redox Operating System](https://doc.redox-os.org/book/)
