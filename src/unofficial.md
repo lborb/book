@@ -28,7 +28,7 @@ Application domains:
   * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
 * [Engineering Rust Web Applications](https://erwabook.com/)
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
-* [Real-Time Interrupt-driven Concurrency](https://rtic.rs/0.5/book/en/preface.html) (translated from the [Russian original](https://rtic.rs/0.5/book/ru/index.html))
+* [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
