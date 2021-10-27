@@ -1,6 +1,7 @@
 # Rust Application Books
 
 Applications of Rust:
+* [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
 * Game development
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)
   * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
