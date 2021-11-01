@@ -6,7 +6,7 @@ A catalogue of Rust mdbooks.
 
 Please note that each entry is of the form:
 ```
-* [The Literal Title of The Book](https://a-link-to-the/book/)
+* [The Literal Title of The Book](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
 ```
 
 ## Viewing
