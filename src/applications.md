@@ -14,7 +14,7 @@ Applications of Rust:
 * GUI development
   * [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
-  * [Memory Game Tutorial using the SixtyFPS GUI toolkit](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/)
+  * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
 * [mdBook](https://rust-lang.github.io/mdBook/)
