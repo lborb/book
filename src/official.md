@@ -23,6 +23,7 @@ Advanced:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [mdBook](https://rust-lang.github.io/mdBook/)
 * [Polonius](https://rust-lang.github.io/polonius/) - experimental borrow checker crate
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 * [Rust RFCs](https://rust-lang.github.io/rfcs/)
