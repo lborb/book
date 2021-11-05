@@ -39,7 +39,7 @@ Each entry is of the form:
 * [The Literal Title of The Book](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
 ```
 
-the `.editorconfig` file captures basic source files formatting conventions.
+The `.editorconfig` file captures basic source files formatting conventions.
 Many editors support this file natively; others (such as VS code) require a plugin, see https://editorconfig.org/.
 
 The default branch is `main`. See [Renaming the default branch from master](https://github.com/github/renaming) for the rationale.
