@@ -31,6 +31,10 @@ Application domains:
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
+* Web assembly
+  * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
+  * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+  * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:

@@ -23,7 +23,3 @@ Applications of Rust:
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
 * [The Redox Operating System](https://doc.redox-os.org/book/)
-* Web assembly
-  * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
-  * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
-  * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
