@@ -14,6 +14,7 @@ Applications of Rust:
 * GPU development
   * [Rust GPU Dev Guide](https://embarkstudios.github.io/rust-gpu/book/)
 * GUI development
+  * [Druid](https://linebender.org/druid/)
   * [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
