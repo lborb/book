@@ -4,7 +4,9 @@ The following books are maintained outside [rust-lang.org](https://www.rust-lang
 
 Introductory:
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+* [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
+* [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
@@ -17,6 +19,7 @@ Application domains:
   * [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
   * [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
   * [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
+  * [_Tokio Tutorial_](https://tokio.rs/tokio/tutorial) - event-driven, non-blocking I/O
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * Command line
   * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
@@ -27,14 +30,18 @@ Application domains:
   * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
   * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
 * [Engineering Rust Web Applications](https://erwabook.com/)
+* Foreign Function Interface (FFI)
+  * [_The Rust FFI Omnibus_](http://jakegoulding.com/rust-ffi-omnibus/)
+  * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
-* [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
+* [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 * Web assembly
   * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
   * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
   * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
+* [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:
