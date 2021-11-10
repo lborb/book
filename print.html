@@ -76,7 +76,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="title-page.html">Introduction</a></li><li class="chapter-item expanded "><a href="official.html"><strong aria-hidden="true">1.</strong> Official Rust Books</a></li><li class="chapter-item expanded "><a href="unofficial.html"><strong aria-hidden="true">2.</strong> Unofficial Rust Books</a></li><li class="chapter-item expanded "><a href="applications.html"><strong aria-hidden="true">3.</strong> Rust Application Books</a></li><li class="chapter-item expanded "><a href="other-formats.html"><strong aria-hidden="true">4.</strong> Books in Other Formats</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="title-page.html">Introduction</a></li><li class="chapter-item expanded "><a href="official.html"><strong aria-hidden="true">1.</strong> Official Rust Books</a></li><li class="chapter-item expanded "><a href="unofficial.html"><strong aria-hidden="true">2.</strong> Unofficial Rust Books</a></li><li class="chapter-item expanded "><a href="applications.html"><strong aria-hidden="true">3.</strong> Rust Application Books</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -139,14 +139,16 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="the-little-book-of-rust-books"><a class="header" href="#the-little-book-of-rust-books">The Little Book of Rust Books</a></h1>
-<p>This book is a treasure-trove of Rust books in <a href="https://github.com/rust-lang/mdBook">mdbook</a> format:</p>
+<p>This book is a treasure-trove of Rust books:</p>
 <ul>
 <li><a href="./official.html">Official books</a> maintained at <a href="https://www.rust-lang.org/">rust-lang.org</a></li>
 <li><a href="./unofficial.html">Unofficial books</a> maintained elsewhere</li>
 <li><a href="./applications.html">Application books</a> on specific Rust applications</li>
-<li><a href="./other-formats.html">Books in Other Formats</a></li>
 </ul>
 <p>If you know of others, why not submit a <a href="https://github.com/lborb/book#pull-requests">pull request</a>?</p>
+<p>The titles of books not in
+<a href="https://github.com/rust-lang/mdBook">mdbook</a> format are <em>italicised</em>.
+For more books in other formats, see <a href="https://github.com/sger/RustBooks">Rust Books</a>.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="official-rust-books"><a class="header" href="#official-rust-books">Official Rust Books</a></h1>
 <p>The following books are maintained at <a href="https://www.rust-lang.org/">rust-lang.org</a>.
 Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Rust</a>.</p>
@@ -186,7 +188,9 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <p>Introductory:</p>
 <ul>
 <li><a href="https://stevedonovan.github.io/rust-gentle-intro/readme.html">A Gentle Introduction To Rust</a></li>
+<li><a href="https://fasterthanli.me/articles/a-half-hour-to-learn-rust"><em>A half-hour to learn Rust</em></a></li>
 <li><a href="https://dhghomon.github.io/easy_rust/">Easy Rust</a> - aimed at non-English native speakers</li>
+<li><a href="http://cliffle.com/p/dangerust/"><em>Learn Rust the Dangerous Way</em></a></li>
 <li><a href="https://rust-unofficial.github.io/too-many-lists/">Learning Rust With Entirely Too Many Linked Lists</a></li>
 <li><a href="https://rust-lang-nursery.github.io/rust-cookbook/">Rust Cookbook</a> - a collection of example programs</li>
 <li><a href="https://aminb.gitbooks.io/rust-for-c/content/index.html">Rust for C++ Programmers</a></li>
@@ -201,6 +205,7 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <li><a href="https://book.async.rs/introduction.html">Async programming in Rust with async-std</a></li>
 <li><a href="https://async-raft.github.io/async-raft/">Async Raft</a> - the Raft distributed consensus protocol in async Rust</li>
 <li><a href="https://cfsamson.github.io/book-exploring-async-basics/">The Node Experiment - Exploring Async Basics with Rust</a></li>
+<li><a href="https://tokio.rs/tokio/tutorial"><em>Tokio Tutorial</em></a> - event-driven, non-blocking I/O</li>
 </ul>
 </li>
 <li><a href="https://cxx.rs">CXX — Safe Interop Between Rust and C++</a></li>
@@ -219,9 +224,15 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 </ul>
 </li>
 <li><a href="https://erwabook.com/">Engineering Rust Web Applications</a></li>
+<li>Foreign Function Interface (FFI)
+<ul>
+<li><a href="http://jakegoulding.com/rust-ffi-omnibus/"><em>The Rust FFI Omnibus</em></a></li>
+<li><a href="https://michael-f-bryan.github.io/rust-ffi-guide/">The (unofficial) Rust FFI Guide</a> - FFI in depth</li>
+</ul>
+</li>
 <li><a href="https://cfsamson.github.io/books-futures-explained/">Futures Explained in 200 Lines of Rust</a></li>
 <li><a href="https://rtic.rs/">Real-Time Interrupt-driven Concurrency</a></li>
-<li><a href="https://michael-f-bryan.github.io/rust-ffi-guide/">The (unofficial) Rust FFI Guide</a> - FFI in depth</li>
+<li><a href="https://www.sea-ql.org/SeaORM/docs/index"><em>SeaORM</em></a> - an async and dynamic ORM</li>
 <li><a href="https://rust-tutorials.github.io/triangle-from-scratch/">Triangle From Scratch</a> - draw a triangle using Win32, but no external crates</li>
 <li>Web assembly
 <ul>
@@ -230,6 +241,7 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <li><a href="https://rustwasm.github.io/docs/wasm-bindgen/">The <code>wasm-bindgen</code> Guide</a></li>
 </ul>
 </li>
+<li><a href="https://os.phil-opp.com/"><em>Writing an OS in Rust</em></a></li>
 <li><a href="https://rust-hosted-langs.github.io/book/introduction.html">Writing Interpreters in Rust: a Guide</a></li>
 </ul>
 <p>Other:</p>
@@ -245,6 +257,7 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <div style="break-before: page; page-break-before: always;"></div><h1 id="rust-application-books"><a class="header" href="#rust-application-books">Rust Application Books</a></h1>
 <p>Applications of Rust:</p>
 <ul>
+<li><a href="https://github.com/aquova/chip8-book/releases"><em>An Introduction to Chip-8 Emulation using the Rust Programming Language</em></a> - PDF book</li>
 <li><a href="https://google.github.io/crosvm/">Book of crosvm</a> - a hosted (a.k.a. type-2) virtual machine monitor</li>
 <li>Embedded
 <ul>
@@ -276,26 +289,12 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 </li>
 <li><a href="http://intermezzos.github.io/book/second-edition/">intermezzOS OS</a></li>
 <li><a href="https://graphql-rust.github.io/juniper/current/">Juniper - GraphQL Server for Rust</a></li>
+<li><a href="https://nalgebra.org/docs/"><em>nalgebra</em></a> - a linear algebra library</li>
 <li><a href="https://viperproject.github.io/prusti-dev/user-guide/">Prusti user guide</a> - a Rust verifier</li>
 <li><a href="https://serde.rs/">Serde</a> - <strong>ser</strong>ialize and <strong>de</strong>serialize Rust data structures</li>
 <li><a href="https://dbrgn.github.io/tealdeer/">Tealdeer User Manual</a> - implementation of <a href="https://github.com/tldr-pages/tldr">tldr</a> (help like <code>man</code>, but more approachable).</li>
 <li><a href="https://doc.redox-os.org/book/">The Redox Operating System</a></li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="books-in-other-formats"><a class="header" href="#books-in-other-formats">Books in Other Formats</a></h1>
-<p>The following books get an honourable mention even though they aren’t actually in
-<a href="https://github.com/rust-lang/mdBook">mdbook</a> format:</p>
-<ul>
-<li><a href="https://fasterthanli.me/articles/a-half-hour-to-learn-rust">A half-hour to learn Rust</a></li>
-<li><a href="https://github.com/aquova/chip8-book/releases">An Introduction to Chip-8 Emulation using the Rust Programming Language</a></li>
-<li><a href="http://cliffle.com/p/dangerust/">Learn Rust the Dangerous Way</a></li>
-<li><a href="https://nalgebra.org/docs/">nalgebra</a> - a linear algebra library</li>
-<li><a href="https://www.sea-ql.org/SeaORM/docs/index">SeaORM</a> - an async and dynamic ORM</li>
-<li><a href="http://jakegoulding.com/rust-ffi-omnibus/">The Rust FFI Omnibus</a></li>
-<li><a href="https://tokio.rs/tokio/tutorial">Tokio Tutorial</a> - event-driven, non-blocking I/O</li>
-<li><a href="https://os.phil-opp.com/">Writing an OS in Rust</a></li>
-</ul>
-<p>For more books in other formats, see <a href="https://github.com/sger/RustBooks">Rust
-Books</a>.</p>
 
                     </main>
 
