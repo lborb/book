@@ -37,11 +37,14 @@ change.
 
 ### Conventions
 
-Basic conventions around source files formatting are captured in the `.editorconfig` file.
-Many editors support that file natively. Others (such as VS code) require a plugin, see https://editorconfig.org/.
+Basic conventions around source files formatting are captured in the
+`.editorconfig` file. Many editors support that file natively. Others (such as
+VS code) require a plugin, see https://editorconfig.org/.
 
-Please note that the default branch is called `main`. See https://github.com/github/renaming for more about this convention.
+Please note that the default branch is called `main`. See
+https://github.com/github/renaming for more about this convention.
 
 ## Deployment
 
-The book is deployed to the `gh-pages` branch by CI on a push to the `main` branch.
+The book is deployed to the `gh-pages` branch by CI on a push to the `main`
+branch.
