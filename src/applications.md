@@ -9,6 +9,7 @@ Applications of Rust:
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)
   * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
   * [Emergent AI](https://psichix.github.io/emergent/) - smart agents and events
+  * [`rg3d` Cheat/Guide Book](https://rg3d-book.github.io/) - a general purpose game engine
   * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/) - [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game development
   * [The Specs Book](https://specs.amethyst.rs/docs/tutorials/) - an introduction to [Entity–component–system (ECS)](https://en.wikipedia.org/wiki/Entity_component_system) and the Specs API
   * [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html) - NES is the Nintendo Entertainment System gaming platform
@@ -24,5 +25,7 @@ Applications of Rust:
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
+* [_Solana_](https://docs.solana.com/) - web-scale blockchain for decentralized apps
+* [_tantivy_](https://tantivy-search.github.io/examples/basic_search.html) - a full text search engine library
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
 * [The Redox Operating System](https://doc.redox-os.org/book/)
