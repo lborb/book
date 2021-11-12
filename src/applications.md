@@ -1,6 +1,7 @@
 # Rust Application Books
 
 Applications of Rust:
+* [_An Introduction to Chip-8 Emulation using the Rust Programming Language_](https://github.com/aquova/chip8-book/releases) - PDF book
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
 * Embedded
   * [The Rust on ESP Book](https://esp-rs.github.io/book/)
@@ -15,11 +16,13 @@ Applications of Rust:
 * GPU development
   * [Rust GPU Dev Guide](https://embarkstudios.github.io/rust-gpu/book/)
 * GUI development
+  * [Druid](https://linebender.org/druid/)
   * [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
+* [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).

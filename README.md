@@ -4,10 +4,7 @@ A catalogue of Rust mdbooks.
 
 ## Pull Requests
 
-Please note that each entry is of the form:
-```
-* [The Literal Title of The Book](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
-```
+Pull requests are welcome. Please ensure they conform to the conventions described below.
 
 ## Viewing
 
