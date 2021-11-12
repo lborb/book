@@ -25,7 +25,5 @@ Applications of Rust:
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
-* [_Solana_](https://docs.solana.com/) - web-scale blockchain for decentralized apps
-* [_tantivy_](https://tantivy-search.github.io/examples/basic_search.html) - a full text search engine library
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
 * [The Redox Operating System](https://doc.redox-os.org/book/)
