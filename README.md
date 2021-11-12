@@ -34,14 +34,18 @@ change.
 
 ### Conventions
 
-Basic conventions around source files formatting are captured in the
-`.editorconfig` file. Many editors support that file natively. Others (such as
-VS code) require a plugin, see https://editorconfig.org/.
+Each entry is of the form:
+```
+* [The Literal Title of The Book](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
+```
 
-Please note that the default branch is called `main`. See
-https://github.com/github/renaming for more about this convention.
+The `.editorconfig` file captures basic source files formatting conventions.
+Many editors support this file natively; others (such as VS code) require a plugin, see https://editorconfig.org/.
+
+The default branch is `main`. See [Renaming the default branch from master](https://github.com/github/renaming) for the rationale.
+
+Commit logs should describe the specific changes made by a commit. See [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/).
 
 ## Deployment
 
-The book is deployed to the `gh-pages` branch by CI on a push to the `main`
-branch.
+The book is deployed to the `gh-pages` branch by CI on a push to the `main` branch.
