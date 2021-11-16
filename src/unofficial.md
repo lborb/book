@@ -34,6 +34,9 @@ Application domains:
   * [_The Rust FFI Omnibus_](http://jakegoulding.com/rust-ffi-omnibus/)
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
+* GraphQL
+  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html)
+  * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
