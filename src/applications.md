@@ -24,6 +24,7 @@ Applications of Rust:
 * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
+* [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [_Solana_](https://docs.solana.com/) - web-scale blockchain for decentralized apps
 * [_tantivy_](https://tantivy-search.github.io/examples/basic_search.html) - a full text search engine library
