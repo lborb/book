@@ -35,7 +35,8 @@ Application domains:
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * GraphQL
-  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html)
+  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library 
+  * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
   * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
