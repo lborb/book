@@ -21,7 +21,6 @@ Applications of Rust:
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
-* [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/juniper/current/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
