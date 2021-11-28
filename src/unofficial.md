@@ -44,7 +44,7 @@ Application domains:
   * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
   * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
   * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
-  * [The `wasm-pack` Guide](https://rustwasm.github.io/docs/wasm-pack/introduction.html)
+  * [The `wasm-pack` Guide](https://rustwasm.github.io/docs/wasm-pack/)
 * [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
