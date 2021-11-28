@@ -23,12 +23,3 @@ View the built book:
 ```
 mdbook serve
 ```
-This will launch a local web server to serve the book. Navigate to
-[localhost:3000](http://localhost:3000/) in a web browser. While the web server
-is running, the rendered book will automatically update if the source files
-change.
-
-## Deployment
-
-The book is deployed to the `gh-pages` branch by CI on a push to the `main`
-branch.
