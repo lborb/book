@@ -1,14 +1,10 @@
-# The Little Book of Rust Books
+# `kw-fn`'s Book of Rust Books
 
 A catalogue of Rust mdbooks.
 
-## Pull Requests
-
-Pull requests are welcome. Please ensure they conform to the conventions described below.
-
 ## Viewing
 
-See the [rendered book](https://lborb.github.io/book/).
+See the [rendered book](https://kw-fn.github.io/book/).
 
 ## Development
 
