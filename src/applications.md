@@ -4,6 +4,7 @@ Applications of Rust:
 * [_An Introduction to Chip-8 Emulation using the Rust Programming Language_](https://github.com/aquova/chip8-book/releases) - PDF book
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
 * Embedded
+  * [Ockham](https://github.com/ockam-network/ockam/tree/develop/documentation)
   * [The Rust on ESP Book](https://esp-rs.github.io/book/)
 * Game development
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)

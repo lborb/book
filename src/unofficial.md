@@ -35,7 +35,7 @@ Application domains:
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * GraphQL
-  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library 
+  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
   * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
   * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
@@ -44,6 +44,7 @@ Application domains:
   * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
   * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
   * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
+  * [The `wasm-pack` Guide](https://rustwasm.github.io/docs/wasm-pack/introduction.html)
 * [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
