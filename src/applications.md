@@ -23,10 +23,12 @@ Applications of Rust:
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
+* [_Plugin Development Kit_ (PDK)](https://nullderef.com/series/rust-plugins/) - blog series implementing Plugins in Rust
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [_Solana_](https://docs.solana.com/) - web-scale blockchain for decentralized apps
 * [_tantivy_](https://tantivy-search.github.io/examples/basic_search.html) - a full text search engine library
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
+* [_Tremor_](https://www.tremor.rs/docs/index) - event processing system for unstructured data
 * [The Redox Operating System](https://doc.redox-os.org/book/)
