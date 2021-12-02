@@ -5,6 +5,7 @@ The following books are maintained outside [rust-lang.org](https://www.rust-lang
 Introductory:
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [`Dyner`](https://dyner.netlify.app/) - experimental trait (_dyn_) objects in Rust
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
@@ -20,10 +21,11 @@ Application domains:
   * [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
   * [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
   * [_Tokio Tutorial_](https://tokio.rs/tokio/tutorial) - event-driven, non-blocking I/O
-* [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
+* [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html)
 * Command line
   * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
   * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
+* [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * Embedded
   * [Discovery](https://docs.rust-embedded.org/discovery/) - introduction to embedded systems using Rust
   * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
@@ -52,6 +54,7 @@ Other:
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
+* [Salsa](https://salsa-rs.github.io/salsa/) - framework for on-demand, incrementalized computation
 * [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
