@@ -20,10 +20,11 @@ Application domains:
   * [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
   * [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
   * [_Tokio Tutorial_](https://tokio.rs/tokio/tutorial) - event-driven, non-blocking I/O
-* [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
+* [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html)
 * Command line
   * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
   * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
+* [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * Embedded
   * [Discovery](https://docs.rust-embedded.org/discovery/) - introduction to embedded systems using Rust
   * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
@@ -39,7 +40,6 @@ Application domains:
   * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
   * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
-* [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 * Web assembly
   * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
