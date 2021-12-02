@@ -54,6 +54,7 @@ Other:
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
+* [Salsa](https://salsa-rs.github.io/salsa/) - framework for on-demand, incrementalized computation
 * [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
