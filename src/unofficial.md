@@ -5,6 +5,7 @@ The following books are maintained outside [rust-lang.org](https://www.rust-lang
 Introductory:
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [`dyner`](https://dyner.netlify.app/) - experimental trait (_dyn_) objects in Rust
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
