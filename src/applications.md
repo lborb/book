@@ -25,6 +25,7 @@ Applications of Rust:
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [_Plugin Development Kit_ (PDK)](https://nullderef.com/series/rust-plugins/) - blog series implementing Plugins in Rust
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
+* [_rage_](https://docs.google.com/document/d/11yHom20CrsuX8KQJXBBw04s80Unjv8zCg_A7sPAX_9Y/preview#heading=h.y2j00d5szll4)
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [_Solana_](https://docs.solana.com/) - web-scale blockchain for decentralized apps
