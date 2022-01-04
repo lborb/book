@@ -21,7 +21,7 @@ Applications of Rust:
   * [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
-  * [_tauri_](https://tauri.studio/en/docs/getting-started/intro)
+  * [_Tauri_](https://tauri.studio/en/docs/getting-started/intro) - desktop application framework
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [_Plugin Development Kit_ (PDK)](https://nullderef.com/series/rust-plugins/) - blog series implementing Plugins in Rust
