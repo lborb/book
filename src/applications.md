@@ -6,6 +6,7 @@ Applications of Rust:
 * Embedded
   * [Ockham](https://github.com/ockam-network/ockam/tree/develop/documentation)
   * [The Rust on ESP Book](https://esp-rs.github.io/book/)
+* [_Fluvio_](https://www.fluvio.io/docs/) - open-source data streaming platform
 * Game development
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)
   * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
