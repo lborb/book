@@ -25,5 +25,6 @@ Applications of Rust:
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
+* [Stakker actor runtime guide](https://uazu.github.io/stakker/about.html) - a low-level single-thread actor runtime for Rust
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
 * [The Redox Operating System](https://doc.redox-os.org/book/)
