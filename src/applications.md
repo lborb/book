@@ -16,6 +16,7 @@ Applications of Rust:
   * [The Specs Book](https://specs.amethyst.rs/docs/tutorials/) - an introduction to [Entity–component–system (ECS)](https://en.wikipedia.org/wiki/Entity_component_system) and the Specs API
   * [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html) - NES is the Nintendo Entertainment System gaming platform
 * GPU development
+  * [_Learn `wgpu`_](https://sotrh.github.io/learn-wgpu/)
   * [Rust GPU Dev Guide](https://embarkstudios.github.io/rust-gpu/book/)
 * GUI development
   * [Druid](https://linebender.org/druid/)
