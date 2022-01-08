@@ -4,7 +4,9 @@ Applications of Rust:
 * [_An Introduction to Chip-8 Emulation using the Rust Programming Language_](https://github.com/aquova/chip8-book/releases) - PDF book
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
 * Embedded
+  * [Ockham](https://github.com/ockam-network/ockam/tree/develop/documentation)
   * [The Rust on ESP Book](https://esp-rs.github.io/book/)
+* [_Fluvio_](https://www.fluvio.io/docs/) - open-source data streaming platform
 * Game development
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)
   * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
@@ -14,17 +16,24 @@ Applications of Rust:
   * [The Specs Book](https://specs.amethyst.rs/docs/tutorials/) - an introduction to [Entity–component–system (ECS)](https://en.wikipedia.org/wiki/Entity_component_system) and the Specs API
   * [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html) - NES is the Nintendo Entertainment System gaming platform
 * GPU development
+  * [_Learn `wgpu`_](https://sotrh.github.io/learn-wgpu/)
   * [Rust GPU Dev Guide](https://embarkstudios.github.io/rust-gpu/book/)
 * GUI development
   * [Druid](https://linebender.org/druid/)
   * [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
+  * [_Tauri_](https://tauri.studio/en/docs/getting-started/intro) - desktop application framework
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
+* [_Plugin Development Kit_ (PDK)](https://nullderef.com/series/rust-plugins/) - blog series implementing Plugins in Rust
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
+* [_rage_](https://docs.google.com/document/d/11yHom20CrsuX8KQJXBBw04s80Unjv8zCg_A7sPAX_9Y/preview#heading=h.y2j00d5szll4) - a simple file encryption tool & format
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [Stakker actor runtime guide](https://uazu.github.io/stakker/about.html) - a low-level single-thread actor runtime for Rust
+* [_Solana_](https://docs.solana.com/) - web-scale blockchain for decentralized apps
+* [_tantivy_](https://tantivy-search.github.io/examples/basic_search.html) - a full text search engine library
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
+* [_Tremor_](https://www.tremor.rs/docs/index) - event processing system for unstructured data
 * [The Redox Operating System](https://doc.redox-os.org/book/)
