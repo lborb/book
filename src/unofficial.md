@@ -28,7 +28,7 @@ Application domains:
   * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * Embedded
-  * [Discovery](https://docs.rust-embedded.org/discovery/) - introduction to embedded systems using Rust
+  * [Embedded: The Missing Parts](https://emp.jamesmunns.com/)
   * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
   * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
   * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
@@ -48,10 +48,12 @@ Application domains:
   * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
   * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
   * [The `wasm-pack` Guide](https://rustwasm.github.io/docs/wasm-pack/)
+  * [WASM It](https://azriel.im/wasm_it/)
 * [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:
+* [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
@@ -60,3 +62,4 @@ Other:
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
+* [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
