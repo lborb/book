@@ -21,9 +21,13 @@ Advanced:
 * [The Rust Unstable Book](https://doc.rust-lang.org/unstable-book/) - nightly-only features
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/) - the dark arts of unsafe Rust
 
+Working groups:
+* [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
+* [wg-traits](https://rust-lang.github.io/wg-traits/) - traits
+* [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
+
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
-* [wg-async](https://rust-lang.github.io/wg-async/) - working group improving the foundations of async I/O in Rust
 * [mdBook](https://rust-lang.github.io/mdBook/)
 * [Polonius](https://rust-lang.github.io/polonius/) - experimental borrow checker crate
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
