@@ -22,9 +22,9 @@ Advanced:
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/) - the dark arts of unsafe Rust
 
 Working groups:
+* [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 * [wg-traits](https://rust-lang.github.io/wg-traits/) - traits
-* [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
