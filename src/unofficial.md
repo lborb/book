@@ -7,6 +7,7 @@ Introductory:
 * [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [`Dyner`](https://dyner.netlify.app/) - experimental trait (_dyn_) objects in Rust
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
+* [Effective Rust](https://www.lurklurk.org/effective-rust/) - Rust guidelines[^effectiverust]
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
@@ -38,7 +39,7 @@ Application domains:
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * GraphQL
-  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library 
+  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
   * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
   * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
@@ -63,3 +64,5 @@ Other:
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
 * [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
+
+[^effectiverust]: Some concepts are incomplete, as of March 2022.
