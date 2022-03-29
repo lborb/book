@@ -55,6 +55,7 @@ Application domains:
 
 Other:
 * [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
+* [High Assurance Rust](https://highassurance.rs/) - developing secure and robust software
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
