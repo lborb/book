@@ -9,6 +9,7 @@ Applications of Rust:
   * [The Rust on ESP Book](https://esp-rs.github.io/book/)
 * Game development
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)
+  * [_BEVY The Book_](https://bevyengine.org/learn/book/introduction/) - data-driven game engine
   * [DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/)
   * [Emergent AI](https://psichix.github.io/emergent/) - smart agents and events
   * [Fyrox Cheat Book](https://fyrox-book.github.io/) - a general purpose game engine
