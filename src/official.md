@@ -23,8 +23,8 @@ Advanced:
 
 Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
+* [types-team](https://rust-lang.github.io/types-team/) - traits implementation improvements
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
-* [wg-traits](https://rust-lang.github.io/wg-traits/) - traits
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
