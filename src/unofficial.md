@@ -14,9 +14,8 @@ Introductory:
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
-* [Rustnote](https://www.rustnote.com/rustnote.html)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
-* [Rust Practise Questions](https://sn99.github.io/rust-practise-questions/) (sic)
+
 
 Application domains:
 * [A thoughtful introduction to the pest parser](https://pest.rs/book/)
