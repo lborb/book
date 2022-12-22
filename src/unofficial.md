@@ -57,7 +57,10 @@ Application domains:
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:
-* [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
+* Macros
+  * [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
+  * [MacroKata](https://tfpk.github.io/macrokata/) - a series of worked exercises to learn macros
+  * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 * [High Assurance Rust](https://highassurance.rs/) - developing secure and robust software
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
@@ -65,7 +68,6 @@ Other:
 * [Salsa](https://salsa-rs.github.io/salsa/) - framework for on-demand, incrementalized computation
 * [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
-* [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
 * [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
 
