@@ -25,13 +25,13 @@ Applications of Rust:
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
-* [Nominomicon](https://tfpk.github.io/nominomicon/) - a guide to using the Nom parser combinator library
 * [Plotly.rs](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [Stakker actor runtime guide](https://uazu.github.io/stakker/about.html) - a low-level single-thread actor runtime for Rust
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
+* [The Nom Guide (Nominomicon)](https://tfpk.github.io/nominomicon/) - a parser combinator library
 * [The Redox Operating System](https://doc.redox-os.org/book/)
 * [Thesus OS](https://theseus-os.github.io/Theseus/book/index.html)
 * [The Zebra Book](https://zebra.zfnd.org/)
