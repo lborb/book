@@ -48,7 +48,6 @@ Application domains:
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 * Web assembly
-  * [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/) - documentation and tutorials on how to use `wasm-pack`
   * [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
   * [The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/)
   * [The `wasm-pack` Guide](https://rustwasm.github.io/docs/wasm-pack/)
