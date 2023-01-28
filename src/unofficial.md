@@ -29,6 +29,8 @@ Application domains:
   * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
   * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
+* Data Science
+  * [Data Analysis with Rust Notebooks](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/) - A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice.
 * Embedded
   * [Embedded: The Missing Parts](https://emp.jamesmunns.com/)
   * [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) - training Material for learning to use Embedded Rust with the Espressif ESP32-C3.
