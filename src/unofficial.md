@@ -4,8 +4,8 @@ The following books are maintained outside [rust-lang.org](https://www.rust-lang
 
 Introductory:
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-* [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/) - a multi-day course developed by Google to teach Rust to Android engineers
 * [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/) - a multi-day course developed by Google to teach Rust to Android engineers
 * [`Dyner`](https://dyner.netlify.app/) - experimental trait (_dyn_) objects in Rust
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - Rust guidelines[^effectiverust]
