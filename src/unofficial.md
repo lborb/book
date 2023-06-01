@@ -32,7 +32,7 @@ Application domains:
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * Embedded
   * [Embedded: The Missing Parts](https://emp.jamesmunns.com/)
-  * [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) - training Material for learning to use Embedded Rust with the Espressif ESP32-C3.
+  * [Embedded Rust on Espressif](https://esp-rs.github.io/std-training/) - training Material for learning to use Embedded Rust with the Espressif ESP32-C3.
   * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
   * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
   * [The Rust on ESP Book](https://esp-rs.github.io/book/) - comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
