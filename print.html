@@ -71,10 +71,12 @@
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -237,7 +239,7 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <li>Embedded
 <ul>
 <li><a href="https://emp.jamesmunns.com/">Embedded: The Missing Parts</a></li>
-<li><a href="https://espressif-trainings.ferrous-systems.com/">Embedded Rust on Espressif</a> - training Material for learning to use Embedded Rust with the Espressif ESP32-C3.</li>
+<li><a href="https://esp-rs.github.io/std-training/">Embedded Rust on Espressif</a> - training Material for learning to use Embedded Rust with the Espressif ESP32-C3.</li>
 <li><a href="https://rust-embedded.github.io/book/">The Embedded Rust Book</a></li>
 <li><a href="https://docs.rust-embedded.org/embedonomicon/">The Embedonomicon</a> - build a <code>#![no_std]</code> application from scratch</li>
 <li><a href="https://esp-rs.github.io/book/">The Rust on ESP Book</a> - comprehensive guide on using the Rust programming language with Espressif SoCs and modules.</li>
