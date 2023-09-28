@@ -89,11 +89,33 @@
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
 
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
                                 <div id="menu-bar-hover-placeholder"></div>
-                <div id="menu-bar" class="menu-bar sticky bordered">
+                <div id="menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
                         <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
                             <i class="fa fa-bars"></i>
@@ -216,6 +238,7 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <li><a href="https://aminb.gitbooks.io/rust-for-c/content/index.html">Rust for C++ Programmers</a></li>
 <li><a href="https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html">Rust for the Polyglot Programmer</a></li>
 <li><a href="https://chrismorgan.info/blog/rust-ownership-the-hard-way/"><em>Rust Ownership, the Hard Way</em></a></li>
+<li><a href="https://rust-lang.guide/">Rust 101</a> - Rust programming language learning guide</li>
 </ul>
 <p>Application domains:</p>
 <ul>
