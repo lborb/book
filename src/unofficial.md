@@ -16,6 +16,7 @@ Introductory:
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
+* [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
 
 
 Application domains:
