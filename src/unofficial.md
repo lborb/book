@@ -24,7 +24,7 @@ Application domains:
 * Async
   * [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
   * [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
-  * [Learning Async Rust with Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
+  * [_Learning Async Rust with Entirely Too Many Web Servers_](https://ibraheem.ca/posts/too-many-web-servers/)
   * [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
   * [_Tokio Tutorial_](https://tokio.rs/tokio/tutorial) - event-driven, non-blocking I/O
 * [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html)
