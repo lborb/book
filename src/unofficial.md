@@ -10,6 +10,7 @@ Introductory:
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - Rust guidelines[^effectiverust]
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
+* [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [Rust By Practice](https://practice.rs/) - Practise Rust with challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
