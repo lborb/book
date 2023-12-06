@@ -23,6 +23,7 @@ Advanced:
 
 Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
+* [`std` lib developers guide](https://std-dev-guide.rust-lang.org/about.html)
 * [types-team](https://rust-lang.github.io/types-team/) - traits implementation improvements
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 
