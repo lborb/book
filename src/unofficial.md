@@ -12,7 +12,7 @@ Introductory:
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
-* [Rust By Practice](https://practice.rs/) - Practise Rust with challenging examples, exercises and projects
+* [Rust By Practice](https://practice.rs/) - Practice Rust with challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
