@@ -6,7 +6,6 @@ Applications of Rust:
 * Embedded
   * [Anachro](https://anachro.computer/) - a network protocol and a PC architecture for microcontrollers
   * [Discovery](https://docs.rust-embedded.org/discovery/) - use an F3 Discovery circuit board and Rust
-  * [The Rust on ESP Book](https://esp-rs.github.io/book/)
 * Game development
   * [Amethyst Game Engine](https://book.amethyst.rs/stable/)
   * [_BEVY The Book_](https://bevyengine.org/learn/book/introduction/) - data-driven game engine
