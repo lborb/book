@@ -44,7 +44,6 @@ Application domains:
 * Foreign Function Interface (FFI)
   * [_The Rust FFI Omnibus_](http://jakegoulding.com/rust-ffi-omnibus/)
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
-* [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 * GraphQL
   * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
   * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
