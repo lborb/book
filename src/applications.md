@@ -3,6 +3,7 @@
 Applications of Rust:
 * [_An Introduction to Chip-8 Emulation using the Rust Programming Language_](https://github.com/aquova/chip8-book/releases) - PDF book
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
+* [`delta`](https://dandavison.github.io/delta/introduction.html) - syntax-highlighting pager for git, diff, and grep output
 * Embedded
   * [Anachro](https://anachro.computer/) - a network protocol and a PC architecture for microcontrollers
   * [Discovery](https://docs.rust-embedded.org/discovery/) - use an F3 Discovery circuit board and Rust
