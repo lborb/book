@@ -5,19 +5,34 @@ The following books are maintained outside [rust-lang.org](https://www.rust-lang
 Introductory:
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/) - a multi-day course developed by Google to teach Rust to Android engineers
 * [`Dyner`](https://dyner.netlify.app/) - experimental trait (_dyn_) objects in Rust
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - Rust guidelines[^effectiverust]
+* [Error Handling in Rust](https://nrc.github.io/error-docs/)
+* [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/)
+* [Java-Rust Generics](https://gist.github.com/Kimundi/8391398)
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+* [LifetimeKata](https://tfpk.github.io/lifetimekata/)
+* [Pointers](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
+* [py2rs](https://rochacbruno.github.io/py2rs/)
+* [r4cppp](https://github.com/nrc/r4cppp/blob/master/hello-world.md)
+* [Rust Anthology](https://brson.github.io/rust-anthology/1/index.html)
 * [Rust By Practice](https://practice.rs/) - Rust practice through challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
+* [Rust Cross](https://github.com/japaric/rust-cross#table-of-contents)
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
+* [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
+* [Rust for Node Developers](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
+* [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
+* [Rust Iterators](https://github.com/rustomax/rust-iterators/#introduction)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 * [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
+* [The Node Experiment](https://web.archive.org/web/20230125023131/https://cfsamson.github.io/book-exploring-async-basics/)
 
 
 Application domains:
@@ -44,6 +59,7 @@ Application domains:
 * Foreign Function Interface (FFI)
   * [_The Rust FFI Omnibus_](http://jakegoulding.com/rust-ffi-omnibus/)
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
+  * [Using Unsafe for Fun and Profit](https://michael-f-bryan.github.io/rust-ffi-guide/)
 * GraphQL
   * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
   * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
@@ -63,6 +79,7 @@ Other:
   * [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
   * [MacroKata](https://tfpk.github.io/macrokata/) - a series of worked exercises to learn macros
   * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
+  * [proc-macros Workshop](https://github.com/dtolnay/proc-macro-workshop#suggested-prerequisites)
 * [High Assurance Rust](https://highassurance.rs/) - developing secure and robust software
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing

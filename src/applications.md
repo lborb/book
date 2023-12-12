@@ -2,7 +2,9 @@
 
 Applications of Rust:
 * [_An Introduction to Chip-8 Emulation using the Rust Programming Language_](https://github.com/aquova/chip8-book/releases) - PDF book
+* [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
+* [Create Your Own Programming Language with Rust](https://createlang.rs/)
 * [`delta`](https://dandavison.github.io/delta/introduction.html) - syntax-highlighting pager for git, diff, and grep output
 * Embedded
   * [Anachro](https://anachro.computer/) - a network protocol and a PC architecture for microcontrollers
@@ -15,6 +17,7 @@ Applications of Rust:
   * [Emergent AI](https://psichix.github.io/emergent/) - smart agents and events
   * [Fyrox Cheat Book](https://fyrox-book.github.io/) - a general purpose game engine
   * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/) - [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game development
+  * [Rust sokoban](https://sokoban.iolivia.me/)
   * [The Specs Book](https://specs.amethyst.rs/docs/tutorials/) - an introduction to [Entity–component–system (ECS)](https://en.wikipedia.org/wiki/Entity_component_system) and the Specs API
   * [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html) - NES is the Nintendo Entertainment System gaming platform
 * GPU development
@@ -27,11 +30,13 @@ Applications of Rust:
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Plotly.rs](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
+* [PNGme](https://jrdngr.github.io/pngme_book/) - an intermediate Rust project
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
 * [Stakker actor runtime guide](https://uazu.github.io/stakker/about.html) - a low-level single-thread actor runtime for Rust
 * [Tealdeer User Manual](https://dbrgn.github.io/tealdeer/) - implementation of [tldr](https://github.com/tldr-pages/tldr) (help like `man`, but more approachable).
+* [The DNS Protocol](https://github.com/EmilHernvall/dnsguide/blob/master/chapter1.md)
 * [The Nom Guide (Nominomicon)](https://tfpk.github.io/nominomicon/) - a parser combinator library
 * [The Redox Operating System](https://doc.redox-os.org/book/)
 * [Thesus OS](https://theseus-os.github.io/Theseus/book/index.html)
