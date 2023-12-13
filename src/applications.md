@@ -30,7 +30,7 @@ Applications of Rust:
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [Plotly.rs](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
-* [PNGme](https://jrdngr.github.io/pngme_book/) - an intermediate Rust project
+* [PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
