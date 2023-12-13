@@ -18,7 +18,7 @@ Introductory:
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [LifetimeKata](https://tfpk.github.io/lifetimekata/)
 * [_Pointers_](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
-* [py2rs](https://rochacbruno.github.io/py2rs/)
+* [py2rs](https://rochacbruno.github.io/py2rs/) - from Python into Rust
 * [r4cppp](https://github.com/nrc/r4cppp/blob/master/hello-world.md)
 * [Rust Anthology](https://brson.github.io/rust-anthology/1/index.html)
 * [Rust By Practice](https://practice.rs/) - Rust practice through challenging examples, exercises and projects
