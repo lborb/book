@@ -17,7 +17,7 @@ Introductory:
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [LifetimeKata](https://tfpk.github.io/lifetimekata/)
-* [Pointers](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
+* [_Pointers_](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
 * [py2rs](https://rochacbruno.github.io/py2rs/)
 * [r4cppp](https://github.com/nrc/r4cppp/blob/master/hello-world.md)
 * [Rust Anthology](https://brson.github.io/rust-anthology/1/index.html)
