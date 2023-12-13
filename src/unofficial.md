@@ -20,7 +20,7 @@ Introductory:
 * [_Pointers_](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
 * [py2rs](https://rochacbruno.github.io/py2rs/) - from Python into Rust
 * [_r4cppp_](https://github.com/nrc/r4cppp/blob/master/hello-world.md) - quick introduction to Rust for C++ programmers
-* [Rust Anthology](https://brson.github.io/rust-anthology/1/index.html)
+* [Rust Anthology 1](https://brson.github.io/rust-anthology/1/index.html)
 * [Rust By Practice](https://practice.rs/) - Rust practice through challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
 * [Rust Cross](https://github.com/japaric/rust-cross#table-of-contents)
