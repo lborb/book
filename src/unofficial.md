@@ -26,7 +26,7 @@ Introductory:
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [_Rust for Clojurists_](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
-* [Rust for Node Developers](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
+* [_Rust for Node Developers_](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
 * [Rust Iterators](https://github.com/rustomax/rust-iterators/#introduction)
