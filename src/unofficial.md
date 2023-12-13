@@ -11,7 +11,7 @@ Introductory:
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - aimed at non-English native speakers
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - Rust guidelines[^effectiverust]
 * [Error Handling in Rust](https://nrc.github.io/error-docs/)
-* [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/)
+* [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/) - from the internet archive
 * [Java-Rust Generics](https://gist.github.com/Kimundi/8391398)
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
