@@ -28,7 +28,7 @@ Introductory:
 * [_Rust for Clojurists_](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 * [_Rust for Node Developers_](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
-* [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
+* [_Rustic Symmetries_](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
 * [Rust Iterators](https://github.com/rustomax/rust-iterators/#introduction)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 * [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
