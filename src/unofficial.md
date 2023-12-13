@@ -79,7 +79,7 @@ Other:
   * [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
   * [MacroKata](https://tfpk.github.io/macrokata/) - a series of worked exercises to learn macros
   * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
-  * [proc-macros Workshop](https://github.com/dtolnay/proc-macro-workshop#suggested-prerequisites)
+  * [_Rust Latam: procedural macros workshop_](https://github.com/dtolnay/proc-macro-workshop#suggested-prerequisites)
 * [High Assurance Rust](https://highassurance.rs/) - developing secure and robust software
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
