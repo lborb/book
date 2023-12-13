@@ -17,7 +17,7 @@ Applications of Rust:
   * [Emergent AI](https://psichix.github.io/emergent/) - smart agents and events
   * [Fyrox Cheat Book](https://fyrox-book.github.io/) - a general purpose game engine
   * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/) - [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game development
-  * [Rust sokoban](https://sokoban.iolivia.me/)
+  * [Rust sokoban](https://sokoban.iolivia.me/) - puzzle video game
   * [The Specs Book](https://specs.amethyst.rs/docs/tutorials/) - an introduction to [Entity–component–system (ECS)](https://en.wikipedia.org/wiki/Entity_component_system) and the Specs API
   * [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html) - NES is the Nintendo Entertainment System gaming platform
 * GPU development
