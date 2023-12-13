@@ -12,7 +12,7 @@ Introductory:
 * [Effective Rust](https://www.lurklurk.org/effective-rust/) - Rust guidelines[^effectiverust]
 * [Error Handling in Rust](https://nrc.github.io/error-docs/)
 * [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/) - from the internet archive
-* [Java-Rust Generics](https://gist.github.com/Kimundi/8391398)
+* [_Java-Rust Generics_](https://gist.github.com/Kimundi/8391398)
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
