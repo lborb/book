@@ -23,7 +23,7 @@ Introductory:
 * [Rust Anthology 1](https://brson.github.io/rust-anthology/1/index.html)
 * [Rust By Practice](https://practice.rs/) - Rust practice through challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
-* [Rust Cross](https://github.com/japaric/rust-cross#table-of-contents)
+* [rust-cross](https://github.com/japaric/rust-cross#table-of-contents) - everything you need to know about cross compiling Rust programs!
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 * [Rust for Node Developers](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
