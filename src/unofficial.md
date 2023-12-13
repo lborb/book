@@ -32,7 +32,7 @@ Introductory:
 * [_Rust Iterators_](https://github.com/rustomax/rust-iterators/#introduction)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 * [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
-* [The Node Experiment](https://web.archive.org/web/20230125023131/https://cfsamson.github.io/book-exploring-async-basics/)
+* [The Node Experiment: Exploring Async Basics with Rust](https://web.archive.org/web/20230125023131/https://cfsamson.github.io/book-exploring-async-basics/) - from the internet archive
 
 
 Application domains:
