@@ -88,6 +88,7 @@ Other:
 * [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
+* [Tour of Rusts Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 * [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
 
 [^effectiverust]: Some concepts are incomplete, as of March 2022.
