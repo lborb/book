@@ -64,6 +64,11 @@ Application domains:
   * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
   * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
   * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
+* Macros
+  * [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
+  * [MacroKata](https://tfpk.github.io/macrokata/) - a series of worked exercises to learn macros
+  * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
+  * [_Rust Latam: procedural macros workshop_](https://github.com/dtolnay/proc-macro-workshop#suggested-prerequisites)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 * Web assembly
@@ -75,20 +80,15 @@ Application domains:
 * [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
 
 Other:
-* Macros
-  * [Advanced Macros](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/advanced-macros.html)
-  * [MacroKata](https://tfpk.github.io/macrokata/) - a series of worked exercises to learn macros
-  * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
-  * [_Rust Latam: procedural macros workshop_](https://github.com/dtolnay/proc-macro-workshop#suggested-prerequisites)
 * [High Assurance Rust](https://highassurance.rs/) - developing secure and robust software
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/) - fuzz testing
 * [Rust Performance](https://nnethercote.github.io/perf-book/)
+* [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
 * [Salsa](https://salsa-rs.github.io/salsa/) - framework for on-demand, incrementalized computation
 * [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
 * [Tour of Rusts Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
-* [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
 
 [^effectiverust]: Some concepts are incomplete, as of March 2022.
