@@ -29,6 +29,7 @@ Working groups:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html)
 * [Criterion.rs](https://bheisler.github.io/criterion.rs/book/getting_started.html) - statistics-driven micro-benchmarking
 * [mdBook](https://rust-lang.github.io/mdBook/)
 * [Polonius](https://rust-lang.github.io/polonius/) - experimental borrow checker crate
