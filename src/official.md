@@ -28,12 +28,12 @@ Working groups:
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 
 Other:
-* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
 * [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html)
 * [Criterion.rs](https://bheisler.github.io/criterion.rs/book/getting_started.html) - statistics-driven micro-benchmarking
-* [mdBook](https://rust-lang.github.io/mdBook/)
+* [mdBook](https://rust-lang.github.io/mdBook/) - code lints for programmers
 * [Polonius](https://rust-lang.github.io/polonius/) - experimental borrow checker crate
-* [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+* [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - how to design and present APIs
 * [Rust RFCs](https://rust-lang.github.io/rfcs/)
 * [The Chalk Book](https://rust-lang.github.io/chalk/book/) - Rust's new trait system implementation
-* [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/)
+* [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/) - "RFC" (request for comments) for changes to Rust

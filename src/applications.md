@@ -2,6 +2,7 @@
 
 Applications of Rust:
 * [_An Introduction to Chip-8 Emulation using the Rust Programming Language_](https://github.com/aquova/chip8-book/releases) - PDF book
+* [A thoughtful introduction to the pest parser](https://pest.rs/book/) - a library for writing plain-text parsers
 * [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
 * [Create Your Own Programming Language with Rust](https://createlang.rs/)
@@ -22,6 +23,10 @@ Applications of Rust:
   * [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html) - NES is the Nintendo Entertainment System gaming platform
 * GPU development
   * [Rust GPU Dev Guide](https://embarkstudios.github.io/rust-gpu/book/)
+* GraphQL
+  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
+  * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
+  * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * GUI development
   * [Druid](https://linebender.org/druid/)
   * [GUI development with Relm4](https://relm4.org/book/stable/)
