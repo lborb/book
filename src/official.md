@@ -31,6 +31,7 @@ Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
 * [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html) - code lints for programmers
 * [Criterion.rs](https://bheisler.github.io/criterion.rs/book/getting_started.html) - statistics-driven micro-benchmarking
+* [Error Codes Index](https://doc.rust-lang.org/stable/error_codes/error-index.html) - list of all error codes emitted from the Rust compiler 
 * [mdBook](https://rust-lang.github.io/mdBook/) - documentation for rendering and serving markdown books
 * [Polonius](https://rust-lang.github.io/polonius/) - experimental borrow checker crate
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - how to design and present APIs
