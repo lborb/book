@@ -29,11 +29,11 @@ Working groups:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
-* [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html)
+* [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html) - code lints for programmers
 * [Criterion.rs](https://bheisler.github.io/criterion.rs/book/getting_started.html) - statistics-driven micro-benchmarking
-* [mdBook](https://rust-lang.github.io/mdBook/) - code lints for programmers
+* [mdBook](https://rust-lang.github.io/mdBook/) - documentation for rendering and serving markdown books
 * [Polonius](https://rust-lang.github.io/polonius/) - experimental borrow checker crate
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - how to design and present APIs
-* [Rust RFCs](https://rust-lang.github.io/rfcs/)
+* [Rust RFCs](https://rust-lang.github.io/rfcs/) - "RFC" (request for comments) for changes to Rust
 * [The Chalk Book](https://rust-lang.github.io/chalk/book/) - Rust's new trait system implementation
-* [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/) - "RFC" (request for comments) for changes to Rust
+* [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/) - automatically generates Rust FFI bindings to C and C++ libraries
