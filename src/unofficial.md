@@ -36,7 +36,6 @@ Introductory:
 
 
 Application domains:
-* [A thoughtful introduction to the pest parser](https://pest.rs/book/)
 * Async
   * [Async programming in Rust with async-std](https://book.async.rs/introduction.html)
   * [Async Raft](https://async-raft.github.io/async-raft/) - the Raft distributed consensus protocol in async Rust
@@ -55,15 +54,10 @@ Application domains:
   * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) - build a `#![no_std]` application from scratch
   * [The Rust on ESP Book](https://esp-rs.github.io/book/) - comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
   * [Workbook for Embedded Workshops](https://embedded-trainings.ferrous-systems.com/preparations.html) - an embedded Rust workshop
-* [Engineering Rust Web Applications](https://erwabook.com/)
 * Foreign Function Interface (FFI)
   * [_The Rust FFI Omnibus_](http://jakegoulding.com/rust-ffi-omnibus/)
   * [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/) - FFI in depth
   * [Using Unsafe for Fun and Profit](https://michael-f-bryan.github.io/rust-ffi-guide/)
-* GraphQL
-  * [Async-graphql Book](https://async-graphql.github.io/async-graphql/en/index.html) - GraphQL server-side library
-  * [Cynic - A GraphQL Client For Rust](https://cynic-rs.dev/)
-  * [Juniper - GraphQL Server for Rust](https://graphql-rust.github.io/)
 * [Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 * Web assembly
