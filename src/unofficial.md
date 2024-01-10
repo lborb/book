@@ -45,7 +45,7 @@ Application domains:
 * [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html)
 * Command line
   * [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
-  * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
+  * [PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/) - build a command line program to hide secret messages in PNG files
 * [CXX — Safe Interop Between Rust and C++](https://cxx.rs)
 * Embedded
   * [Embedded: The Missing Parts](https://emp.jamesmunns.com/)
