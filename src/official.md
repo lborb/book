@@ -22,12 +22,11 @@ Advanced:
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/) - the dark arts of unsafe Rust
 
 Working groups:
-* [Async team working group](https://rust-lang.github.io/wg-async/) - foundations of async I/O
-* [Compiler team working groups](https://rust-lang.github.io/compiler-team/working-groups/) - a list of
-  working groups
-* [Language design team working group](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
-* [Lib `std` developers guide](https://std-dev-guide.rust-lang.org/about.html) - information related to the work of the library team
-* [Types team working group](https://rust-lang.github.io/types-team/) - traits implementation improvements
+* [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
+* [Standard library developers Guide](https://std-dev-guide.rust-lang.org/about.html)
+* [T-Lang](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
+* [T-Types](https://rust-lang.github.io/types-team/) - traits implementation improvements
+* [WG-Async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
