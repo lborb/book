@@ -26,7 +26,7 @@ Working groups:
 * [Standard library developers Guide](https://std-dev-guide.rust-lang.org/about.html)
 * [T-Lang](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
 * [T-Types](https://rust-lang.github.io/types-team/) - traits implementation improvements
-* [WG-Async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
+* [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
