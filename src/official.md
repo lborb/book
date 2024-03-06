@@ -25,7 +25,7 @@ Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
 * [Standard library developers Guide](https://std-dev-guide.rust-lang.org/about.html)
 * [T-Lang](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
-* [T-Types](https://rust-lang.github.io/types-team/) - traits implementation improvements
+* [The Types Team](https://rust-lang.github.io/types-team/) - traits implementation improvements
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 
 Other:
