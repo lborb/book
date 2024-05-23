@@ -3,6 +3,7 @@
 The following books are maintained outside [rust-lang.org](https://www.rust-lang.org/).
 
 Introductory:
+* [100 Exercises to Learn Rust](https://rust-exercises.com/)
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * [_A half-hour to learn Rust_](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [_Common Rust Lifetime Misconceptions_](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
