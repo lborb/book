@@ -37,6 +37,7 @@ Applications of Rust:
 * [Plotly.rs](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
 * [PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
+* [Rama Proxy](https://ramaproxy.org/book/) - modular services framework
 * [Scaphandre](https://hubblo-org.github.io/scaphandre-documentation/index.html) - a monitoring agent dedicated to energy consumption
 * [_SeaORM_](https://www.sea-ql.org/SeaORM/docs/index) - an async and dynamic ORM
 * [Serde](https://serde.rs/) - **ser**ialize and **de**serialize Rust data structures
