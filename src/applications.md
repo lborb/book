@@ -34,6 +34,7 @@ Applications of Rust:
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
+* [OpenPGP Card](https://openpgp-card.gitlab.io/guide/)
 * [Plotly.rs](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
 * [PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
