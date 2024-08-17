@@ -35,7 +35,7 @@ Applications of Rust:
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [OpenPGP Card](https://openpgp-card.gitlab.io/guide/)
-* [Plotly.rs](https://igiagkiozis.github.io/plotly/content/plotly_rs.html)
+* [Plotly.rs](https://plotly.github.io/plotly.rs/content/getting_started.html)
 * [PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/)
 * [Prusti user guide](https://viperproject.github.io/prusti-dev/user-guide/) - a Rust verifier
 * [Rama Proxy](https://ramaproxy.org/book/) - modular services framework
