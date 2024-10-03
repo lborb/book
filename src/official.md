@@ -27,6 +27,7 @@ Working groups:
 * [The Rust Language Design Team](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
 * [The Types Team](https://rust-lang.github.io/types-team/) - traits implementation improvements
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
+* [Const Generics Project Group](https://rust-lang.github.io/project-const-generics/index.html) - implements and designs the const_generics feature
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
@@ -39,4 +40,4 @@ Other:
 * [Rust RFCs](https://rust-lang.github.io/rfcs/) - list of Requests For Comments for changes to Rust
 * [The Chalk Book](https://rust-lang.github.io/chalk/book/) - Rust's new trait system implementation
 * [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/) - automatically generates Rust FFI bindings to C and C++ libraries
-* [cargo-bisect-rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloads rustc artifacts and tests until it finds the regression
+* [cargo bisect rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloads rustc artifacts and tests until it finds the regression
