@@ -39,3 +39,4 @@ Other:
 * [Rust RFCs](https://rust-lang.github.io/rfcs/) - list of Requests For Comments for changes to Rust
 * [The Chalk Book](https://rust-lang.github.io/chalk/book/) - Rust's new trait system implementation
 * [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/) - automatically generates Rust FFI bindings to C and C++ libraries
+* [cargo-bisect-rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloads rustc artifacts and tests until it finds the regression
