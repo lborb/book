@@ -20,6 +20,7 @@ Advanced:
 * [The Rust Reference](https://doc.rust-lang.org/reference/) - primary reference to the Rust language
 * [The Rust Unstable Book](https://doc.rust-lang.org/unstable-book/) - nightly-only features
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/) - the dark arts of unsafe Rust
+* [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) - provide a "guide" for writing unsafe code that "recommends"
 
 Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
