@@ -31,7 +31,7 @@ Working groups:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
-* [cargo-bisect-rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloads rustc artifacts and tests until it finds the regression
+* [cargo-bisect-rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloading and bisecting rustc artifacts and tests until it finds a given regression
 * [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html) - code lints for programmers
 * [Criterion.rs](https://bheisler.github.io/criterion.rs/book/getting_started.html) - statistics-driven micro-benchmarking
 * [Error Codes Index](https://doc.rust-lang.org/stable/error_codes/error-index.html) - list of all error codes emitted from the Rust compiler 
