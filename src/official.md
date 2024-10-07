@@ -23,6 +23,7 @@ Advanced:
 
 Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
+* [Const Generics Project Group](https://rust-lang.github.io/project-const-generics/index.html) - design and implementation of the const generics feature
 * [Standard library developers Guide](https://std-dev-guide.rust-lang.org/about.html)
 * [The Rust Language Design Team](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
 * [The Types Team](https://rust-lang.github.io/types-team/) - traits implementation improvements
@@ -30,6 +31,7 @@ Working groups:
 
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
+* [cargo-bisect-rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloading and bisecting rustc artifacts and tests until it finds a given regression
 * [Clippy Documentation](https://doc.rust-lang.org/nightly/clippy/development/infrastructure/book.html) - code lints for programmers
 * [Criterion.rs](https://bheisler.github.io/criterion.rs/book/getting_started.html) - statistics-driven micro-benchmarking
 * [Error Codes Index](https://doc.rust-lang.org/stable/error_codes/error-index.html) - list of all error codes emitted from the Rust compiler 
