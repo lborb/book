@@ -23,7 +23,7 @@ Advanced:
 
 Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
-* [Const Generics Project Group](https://rust-lang.github.io/project-const-generics/index.html) - implements and designs the const_generics feature
+* [Const Generics Project Group](https://rust-lang.github.io/project-const-generics/index.html) - design and implementation of the const generics feature
 * [Standard library developers Guide](https://std-dev-guide.rust-lang.org/about.html)
 * [The Rust Language Design Team](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
 * [The Types Team](https://rust-lang.github.io/types-team/) - traits implementation improvements
