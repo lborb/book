@@ -20,10 +20,12 @@ Advanced:
 * [The Rust Reference](https://doc.rust-lang.org/reference/) - primary reference to the Rust language
 * [The Rust Unstable Book](https://doc.rust-lang.org/unstable-book/) - nightly-only features
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/) - the dark arts of unsafe Rust
+* [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) - `unsafe` coding practices
 
 Working groups:
 * [_Compiler team working groups_](https://rust-lang.github.io/compiler-team/working-groups/) - a list of working groups
 * [Const Generics Project Group](https://rust-lang.github.io/project-const-generics/index.html) - design and implementation of the const generics feature
+* [Rust Project Goals](https://rust-lang.github.io/rust-project-goals/) - Rust Project Goals tracker
 * [Standard library developers Guide](https://std-dev-guide.rust-lang.org/about.html)
 * [The Rust Language Design Team](https://lang-team.rust-lang.org/design_notes.html) - information related to the work of the lang team
 * [The Types Team](https://rust-lang.github.io/types-team/) - traits implementation improvements
