@@ -84,5 +84,6 @@ Other:
 * [The Little Book of Rust Books](https://lborb.github.io/book/)
 * [The Rust Rand Book](https://rust-random.github.io/book/) - Rust's random number library
 * [Rust Tutorials](https://zicklag.github.io/rust-tutorials/overview.html)
+* [Usability of Programming Languages](https://gergelyk.github.io/prog-lang-usability/) - comparison of basic idioms in Rust, Python and Crystal
 
 [^effectiverust]: Some concepts are incomplete, as of March 2022.
