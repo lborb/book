@@ -31,6 +31,12 @@ Working groups:
 * [The Types Team](https://rust-lang.github.io/types-team/) - traits implementation improvements
 * [wg-async](https://rust-lang.github.io/wg-async/) - foundations of async I/O
 
+Initiative:
+* [async fn fundamentals initiative](https://rust-lang.github.io/async-fundamentals-initiative/index.html)
+* [Dyn upcast initiative](https://rust-lang.github.io/dyn-upcasting-coercion-initiative/index.html)
+* [Generic Associated Types Initiative](https://rust-lang.github.io/generic-associated-types-initiative/index.html)
+* [Impl trait initiative](https://rust-lang.github.io/impl-trait-initiative/index.html)
+
 Other:
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - non-blocking coroutines
 * [cargo-bisect-rustc](https://rust-lang.github.io/cargo-bisect-rustc/) - tool for automatically downloading and bisecting rustc artifacts and tests until it finds a given regression
