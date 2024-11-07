@@ -7,6 +7,6 @@ This book is a treasure-trove of Rust books:
 
 If you know of others, why not submit a [pull request](https://github.com/lborb/book#pull-requests)?
 
-The titles of books not in
+Titles not in
 [mdbook](https://github.com/rust-lang/mdBook) format are _italicised_.
 For more books in other formats, see [Rust Books](https://github.com/sger/RustBooks).

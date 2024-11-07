@@ -5,6 +5,7 @@ Many of them are mentioned in [Learn Rust](https://www.rust-lang.org/learn).
 
 Introductory:
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) - runnable examples illustrating Rust concepts
+* [_Rustlings_](https://github.com/rust-lang/rustlings) - small exercises to get you used to reading and writing Rust code
 * [The Rust Programming Language](https://doc.rust-lang.org/book/) - "the book"
 
 Core:
