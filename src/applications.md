@@ -5,7 +5,7 @@ Applications of Rust:
 * [A thoughtful introduction to the pest parser](https://pest.rs/book/) - a library for writing plain-text parsers
 * [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [Book of crosvm](https://google.github.io/crosvm/) - a hosted (a.k.a. type-2) virtual machine monitor
-* [Cross-platform Rust Components](https://mozilla.github.io/application-services/book/index.html) - Rust components for Firefox integrate
+* [Cross-platform Rust Components](https://mozilla.github.io/application-services/book/index.html) - Rust components for Firefox integration
 * [Create Your Own Programming Language with Rust](https://createlang.rs/)
 * [`delta`](https://dandavison.github.io/delta/introduction.html) - syntax-highlighting pager for git, diff, and grep output
 * Embedded
