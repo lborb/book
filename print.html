@@ -25,17 +25,18 @@
         <link rel="stylesheet" href="fonts/fonts.css">
 
         <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" href="highlight.css">
-        <link rel="stylesheet" href="tomorrow-night.css">
-        <link rel="stylesheet" href="ayu-highlight.css">
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
 
 
-        <!-- Provide site root to javascript -->
+        <!-- Provide site root and default themes to javascript -->
         <script>
-            var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc.js"></script>
@@ -45,8 +46,8 @@
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
-                var theme = localStorage.getItem('mdbook-theme');
-                var sidebar = localStorage.getItem('mdbook-sidebar');
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
 
                 if (theme.startsWith('"') && theme.endsWith('"')) {
                     localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
@@ -60,7 +61,8 @@
 
         <!-- Set the theme before any content is loaded, prevents flash -->
         <script>
-            var theme;
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
             const html = document.documentElement;
@@ -73,8 +75,8 @@
 
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
-            var sidebar = null;
-            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
@@ -110,6 +112,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
@@ -235,7 +238,7 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <li><a href="https://google.github.io/comprehensive-rust/">Comprehensive Rust 🦀</a> - a multi-day course developed by Google to teach Rust to Android engineers</li>
 <li><a href="https://dyner.netlify.app/"><code>Dyner</code></a> - experimental trait (<em>dyn</em>) objects in Rust</li>
 <li><a href="https://dhghomon.github.io/easy_rust/">Easy Rust</a> - aimed at non-English native speakers</li>
-<li><a href="https://www.lurklurk.org/effective-rust/">Effective Rust</a> - Rust guidelines<sup class="footnote-reference"><a href="#effectiverust">1</a></sup></li>
+<li><a href="https://www.lurklurk.org/effective-rust/">Effective Rust</a> - Rust guidelines<sup class="footnote-reference" id="fr-effectiverust-1"><a href="#footnote-effectiverust">1</a></sup></li>
 <li><a href="https://nrc.github.io/error-docs/">Error Handling in Rust</a></li>
 <li><a href="https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/">Futures Explained in 200 Lines of Rust</a> - from the internet archive</li>
 <li><a href="https://gist.github.com/Kimundi/8391398"><em>Java-Rust Generics</em></a></li>
@@ -331,10 +334,11 @@ Many of them are mentioned in <a href="https://www.rust-lang.org/learn">Learn Ru
 <li><a href="https://zicklag.github.io/rust-tutorials/overview.html">Rust Tutorials</a></li>
 <li><a href="https://gergelyk.github.io/prog-lang-usability/">Usability of Programming Languages</a> - comparison of basic idioms in Rust, Python and Crystal</li>
 </ul>
-<div class="footnote-definition" id="effectiverust"><sup class="footnote-definition-label">1</sup>
-<p>Some concepts are incomplete, as of March 2022.</p>
-</div>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="rust-application-books"><a class="header" href="#rust-application-books">Rust Application Books</a></h1>
+<hr>
+<ol class="footnote-definition"><li id="footnote-effectiverust">
+<p>Some concepts are incomplete, as of March 2022. <a href="#fr-effectiverust-1">↩</a></p>
+</li>
+</ol><div style="break-before: page; page-break-before: always;"></div><h1 id="rust-application-books"><a class="header" href="#rust-application-books">Rust Application Books</a></h1>
 <p>Applications of Rust:</p>
 <ul>
 <li><a href="https://github.com/aquova/chip8-book/releases"><em>An Introduction to Chip-8 Emulation using the Rust Programming Language</em></a> - PDF book</li>
