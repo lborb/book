@@ -15,6 +15,7 @@ Introductory:
 * [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/) - from the internet archive
 * [_Java-Rust Generics_](https://gist.github.com/Kimundi/8391398)
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
+* [_Learning Rust_](https://learning-rust.github.io) by Dumindu Madunuwan 
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [LifetimeKata](https://tfpk.github.io/lifetimekata/)
