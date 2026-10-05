@@ -23,7 +23,8 @@ class MDBookSidebarScrollbox extends HTMLElement {
                 link.href = path_to_root + href;
             }
             // The 'index' page is supposed to alias the first chapter in the book.
-            if (link.href === current_page
+            // Check both with and without the '.html' suffix to be robust against pretty URLs
+            if (link.href.replace(/\.html$/, '') === current_page.replace(/\.html$/, '')
                 || i === 0
                 && path_to_root === ''
                 && current_page.endsWith('/index.html')) {
@@ -40,14 +41,22 @@ class MDBookSidebarScrollbox extends HTMLElement {
         // Track and set sidebar scroll position
         this.addEventListener('click', e => {
             if (e.target.tagName === 'A') {
-                sessionStorage.setItem('sidebar-scroll', this.scrollTop);
+                const clientRect = e.target.getBoundingClientRect();
+                const sidebarRect = this.getBoundingClientRect();
+                sessionStorage.setItem('sidebar-scroll-offset', clientRect.top - sidebarRect.top);
             }
         }, { passive: true });
-        const sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
-        sessionStorage.removeItem('sidebar-scroll');
-        if (sidebarScrollTop) {
+        const sidebarScrollOffset = sessionStorage.getItem('sidebar-scroll-offset');
+        sessionStorage.removeItem('sidebar-scroll-offset');
+        if (sidebarScrollOffset !== null) {
             // preserve sidebar scroll position when navigating via links within sidebar
-            this.scrollTop = sidebarScrollTop;
+            const activeSection = this.querySelector('.active');
+            if (activeSection) {
+                const clientRect = activeSection.getBoundingClientRect();
+                const sidebarRect = this.getBoundingClientRect();
+                const currentOffset = clientRect.top - sidebarRect.top;
+                this.scrollTop += currentOffset - parseFloat(sidebarScrollOffset);
+            }
         } else {
             // scroll sidebar to current active section when navigating via
             // 'next/previous chapter' buttons
