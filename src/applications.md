@@ -49,7 +49,7 @@ Applications of Rust:
 * [_The DNS Protocol_](https://github.com/EmilHernvall/dnsguide/blob/master/chapter1.md)
 * [The Nom Guide (Nominomicon)](https://tfpk.github.io/nominomicon/) - a parser combinator library
 * [The Redox Operating System](https://doc.redox-os.org/book/)
-* [Thesus OS](https://theseus-os.github.io/Theseus/book/index.html)
+* [Theseus OS](https://theseus-os.github.io/Theseus/book/index.html)
 * [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [The Zebra Book](https://zebra.zfnd.org/)
 * [The Xous Operating System](https://betrusted.io/xous-book/) - the Xous microkernel operating system
