@@ -52,3 +52,4 @@ Applications of Rust:
 * [Thesus OS](https://theseus-os.github.io/Theseus/book/index.html)
 * [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [The Zebra Book](https://zebra.zfnd.org/)
+* [The Xous Operating System](https://betrusted.io/xous-book/) - the Xous microkernel operating system
