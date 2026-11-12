@@ -4,6 +4,7 @@ This book is a treasure-trove of Rust books:
 * [Official books](./official.md) maintained at [rust-lang.org](https://www.rust-lang.org/)
 * [Unofficial books](./unofficial.md) maintained elsewhere
 * [Application books](./applications.md) on specific Rust applications
+* [Operating system books](./os.md) on operating systems written in Rust
 
 If you know of others, why not submit a [pull request](https://github.com/lborb/book#pull-requests)?
 
