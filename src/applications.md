@@ -33,6 +33,7 @@ Applications of Rust:
   * [GUI development with Relm4](https://relm4.org/book/stable/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
+* [_Hardware Sandboxes from Scratch_](https://leanpub.com/hardwaresandboxesfromscratch) - a KVM virtual machine monitor and a sandbox for untrusted programs, built step by step (PDF and EPUB, first two chapters free)
 * [_Hypervisor in 1000 lines_](https://1000hv.seiya.me/en/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [OpenPGP Card](https://openpgp-card.gitlab.io/guide/)
